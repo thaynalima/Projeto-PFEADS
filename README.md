@@ -12,3 +12,5 @@ Sendo assim, nossa empresa, optou por criar um aplicativo de recomendação para
 Filmes, Séries e Livros, capaz de permitir acesso e participação dos nossos
 colaboradores, de modo a prover interação com contribuições na forma de dicas e
 recomendações sobre filmes, séries e livros. 
+
+[Link da nossa wiki ](https://github.com/thaynalima/Projeto-PFEADS/wiki)
